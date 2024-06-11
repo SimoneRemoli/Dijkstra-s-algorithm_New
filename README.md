@@ -5,7 +5,7 @@
 I created a version of the shortest paths algorithm using the DOT library, which is a filter for drawing directed graphs.
 The program constructs the graph in real time and associates the weight with each edge.
 
-<p align="center"><img src= "https://static.wixstatic.com/media/ad521f_347692607d17411eab03a07b03612b73~mv2.png/v1/fill/w_640,h_360,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ad521f_347692607d17411eab03a07b03612b73~mv2.png" alt="MaxKB" width="300" /></p>
+<p align="center"><img src= "https://e7.pngegg.com/pngimages/686/333/png-clipart-cryptocurrency-computer-network-node-dash-global-network-others-service-triangle.png" alt="MaxKB" width="300" /></p>
 <h3 align="center">Simone Remoli</h3>
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0.html#license-text"><img src="https://img.shields.io/github/license/1Panel-dev/maxkb?color=%231890FF" alt="License: GPL v3"></a>
