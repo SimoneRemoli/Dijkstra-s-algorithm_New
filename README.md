@@ -29,4 +29,10 @@ The program constructs the graph in real time and associates the weight with eac
 | Make  | A way of automating software building procedure  |
 
 ### Execute :computer:
+Copy the folder inside your local device and open it with the terminal, the procedure works with any **unix-based** terminal so if you have a `**windows-based**` device use Cygwin and execute the commands from there.
+
+
+
+For example, `gcc file_name.c -lpthread` and  `./a.out param1 param2 param3 param4 ... ` 
+The double **argv** **character pointer** is used to retrieve the parameters.
 
