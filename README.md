@@ -8,3 +8,8 @@ The program constructs the graph in real time and associates the weight with eac
 <h3 align="center"> Let's look at how it works. :mag:</h3> 
 
 ### Tools :wrench: 
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
