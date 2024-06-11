@@ -12,5 +12,5 @@ The program constructs the graph in real time and associates the weight with eac
 
 | Name  | Description |
 | ------------- | ------------- |
-| DOT  | Filter for drawing directed graphs  |
-| MAKE  | A way of automating software building procedure  |
+| Dot  | Filter for drawing directed graphs  |
+| Make  | A way of automating software building procedure  |
