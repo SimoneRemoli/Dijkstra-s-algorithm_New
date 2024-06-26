@@ -62,9 +62,9 @@ Use `git clone` to clone a repository from GitHub.com to your local computer.
 
 _Install Cygwin from <a href="https://www.cygwin.com/install.html">here</a>._
 
-</ul>
+<br>
 
-## DOT - Fedora, Rocky Linux, Redhat Enterprise Linux, or CentOS
+## Source execution example :bulb:
 
 
 
