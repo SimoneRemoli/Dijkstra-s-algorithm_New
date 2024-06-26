@@ -78,3 +78,5 @@ As you can see, an adjacency matrix has been generated and the PDF containing th
 <br>
 <h2>The pdf was created successfully. Let's open it.</h2>
 <br>
+<img width="787" alt="Screenshot 2024-06-26 alle 13 45 01" src="https://github.com/SimoneRemoli/Dijkstra-s-algorithm_New/assets/118252611/7f19f057-ab26-4422-8a2d-a424bf24ad02">
+
