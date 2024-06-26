@@ -30,6 +30,13 @@ The program constructs the graph in real time and associates the weight with eac
 
 ### Execute :computer:
 Copy the folder inside your local device and open it with the terminal, the procedure works with any **unix-based** terminal so if you have a **windows-based** device use Cygwin and execute the commands from there.
+To install the DOT Graphviz library necessary for graph visualization, you can type the following command in the terminal:
+
+## DOT - LINUX
+
+```
+sudo apt install graphviz
+```
 
 
 
