@@ -92,15 +92,12 @@ As you can see, an adjacency matrix has been generated and the PDF containing th
 | 6  | 10 |
 | 7  | 11 | 
 
-As you can see, the software creates a graph where specific weights are associated with the nodes, but it is extremely intelligent and produces the "shortest" path starting from node 0 towards all the other nodes. In particular, the table clearly tells us the 
-
-**"minimum effort"** 
-to reach any other node.
+As you can see, the software creates a graph where specific weights are associated with the nodes, but it is extremely intelligent and produces the "shortest" path starting from node 0 towards all the other nodes. In particular, the table clearly tells us the **"minimum effort"** to reach any other node.
 For example, to reach node 2, starting from node 0, the cost will be 20 because you will have to pass through intermediate nodes which are 4,1,6,10. 
-
 **The path is: 0->4->1->6->10->2.**
 This is the shortest route.
 
 <h1> Example 2</h1>
 <img width="410" alt="Screenshot 2024-06-26 alle 13 59 03" src="https://github.com/SimoneRemoli/Dijkstra-s-algorithm_New/assets/118252611/c3783e39-d382-47ef-bd74-c28e52aee8df">
-
+<br>
+<img width="300" alt="Screenshot 2024-06-26 alle 14 00 18" src="https://github.com/SimoneRemoli/Dijkstra-s-algorithm_New/assets/118252611/b3bb08ef-4e89-4205-820d-c7ddcbaf8747">
