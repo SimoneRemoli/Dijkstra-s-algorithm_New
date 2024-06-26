@@ -65,16 +65,5 @@ _Install Cygwin from <a href="https://www.cygwin.com/install.html">here</a>._
 <br>
 
 ## Source execution example :bulb:
-
-
-
-
-
-
-
-
-        
-
-For example, `gcc file_name.c -lpthread` and  `./a.out param1 param2 param3 param4 ... ` 
-The double **argv** **character pointer** is used to retrieve the parameters.
+After you clone into your folder you need to run the `make all` command.
 
