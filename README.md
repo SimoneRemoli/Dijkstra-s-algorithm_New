@@ -100,4 +100,6 @@ This is the shortest route.
 <h1> Example 2</h1>
 <img width="410" alt="Screenshot 2024-06-26 alle 13 59 03" src="https://github.com/SimoneRemoli/Dijkstra-s-algorithm_New/assets/118252611/c3783e39-d382-47ef-bd74-c28e52aee8df">
 <br>
-<img width="300" alt="Screenshot 2024-06-26 alle 14 00 18" src="https://github.com/SimoneRemoli/Dijkstra-s-algorithm_New/assets/118252611/b3bb08ef-4e89-4205-820d-c7ddcbaf8747">
+<img width="190" alt="Screenshot 2024-06-26 alle 14 00 18" src="https://github.com/SimoneRemoli/Dijkstra-s-algorithm_New/assets/118252611/b3bb08ef-4e89-4205-820d-c7ddcbaf8747">
+<br>
+:hourglass: To reach node 3 starting from node 0 it is clear that you can make a direct "single hop" instead of crossing multiple nodes by lengthening the path. :hourglass:
