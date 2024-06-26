@@ -60,7 +60,7 @@ Use `git clone` to clone a repository from GitHub.com to your local computer.
 <li>
          <a href="https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/11.0.0/windows_10_cmake_Release_graphviz-install-11.0.0-win64.exe">graphviz-11.0.0 (64-bit) EXE installer</a> [<a href="https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/11.0.0/windows_10_cmake_Release_graphviz-install-11.0.0-win64.exe.sha256">sha256</a>]</li>
 
-_Install Cygwin from <a href="www.google.com">here</a>._
+_Install Cygwin from <a href="https://www.cygwin.com/install.html">here</a>._
         
   
     
