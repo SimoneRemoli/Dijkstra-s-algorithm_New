@@ -75,4 +75,6 @@ _Now let's run the code._
 <img width="480" alt="Screenshot 2024-06-26 alle 13 39 45" src="https://github.com/SimoneRemoli/Dijkstra-s-algorithm_New/assets/118252611/47285a1d-8d4a-4761-965a-fb6fa9ea06a0">
 <br>
 As you can see, an adjacency matrix has been generated and the PDF containing the graph design has been created.
-> Text that is a quote
+<br>
+<h2>The pdf was created successfully. Let's open it.</h2>
+<br>
