@@ -32,12 +32,18 @@ The program constructs the graph in real time and associates the weight with eac
 Copy the folder inside your local device and open it with the terminal, the procedure works with any **unix-based** terminal so if you have a **windows-based** device use Cygwin and execute the commands from there.
 To install the DOT Graphviz library necessary for graph visualization, you can type the following command in the terminal:
 
-## DOT - LINUX
+## DOT - DEBIAN / UBUNTU
 
 ```
 sudo apt install graphviz
 ```
 
+## DOT - Fedora, Rocky Linux, Redhat Enterprise Linux, or CentOS
+
+```
+sudo dnf install graphviz
+```
+Use `git clone` to clone a repository from GitHub.com to your local computer.
 
 
 For example, `gcc file_name.c -lpthread` and  `./a.out param1 param2 param3 param4 ... ` 
