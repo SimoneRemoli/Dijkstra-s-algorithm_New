@@ -72,5 +72,7 @@ _Now let's run the code._
 `executable_dijkstra` is the executable just created by the make file
 <img width="569" alt="Screenshot 2024-06-26 alle 13 34 19" src="https://github.com/SimoneRemoli/Dijkstra-s-algorithm_New/assets/118252611/9d9eee50-b0f4-48a3-96e3-bee5561f9821">
 
-<img width="487" alt="Screenshot 2024-06-26 alle 13 39 45" src="https://github.com/SimoneRemoli/Dijkstra-s-algorithm_New/assets/118252611/47285a1d-8d4a-4761-965a-fb6fa9ea06a0">
-> As you can see, an adjacency matrix has been generated and the PDF containing the graph design has been created.
+<img width="480" alt="Screenshot 2024-06-26 alle 13 39 45" src="https://github.com/SimoneRemoli/Dijkstra-s-algorithm_New/assets/118252611/47285a1d-8d4a-4761-965a-fb6fa9ea06a0">
+<br>
+As you can see, an adjacency matrix has been generated and the PDF containing the graph design has been created.
+> Text that is a quote
