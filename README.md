@@ -66,4 +66,5 @@ _Install Cygwin from <a href="https://www.cygwin.com/install.html">here</a>._
 
 ## Source execution example :bulb:
 After you clone into your folder you need to run the `make all` command.
+<img width="569" alt="Screenshot 2024-06-26 alle 13 32 24" src="https://github.com/SimoneRemoli/Dijkstra-s-algorithm_New/assets/118252611/d2c191a8-21a4-4bf5-839a-d7a860cf3593">
 
