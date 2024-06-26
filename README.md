@@ -48,18 +48,13 @@ Use `git clone` to clone a repository from GitHub.com to your local computer.
 ## DOT - Windows :wine_glass:
 
 <ul>
-  
-    
-    <li>graphviz-11.0.0
-      <ul>
-        
-        <li>
-          <a href="https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/11.0.0/windows_10_msbuild_Release_graphviz-11.0.0-win32.zip">graphviz-11.0.0 (32-bit) ZIP archive</a> [<a href="https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/11.0.0/windows_10_msbuild_Release_graphviz-11.0.0-win32.zip.sha256">sha256</a>] (contains all tools and libraries)</li>
-        
-        <li>
+<li>graphviz-11.0.0
+<ul>
+<li><a href="https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/11.0.0/windows_10_msbuild_Release_graphviz-11.0.0-win32.zip">graphviz-11.0.0 (32-bit) ZIP archive</a> [<a href="https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/11.0.0/windows_10_msbuild_Release_graphviz-11.0.0-win32.zip.sha256">sha256</a>] (contains all tools and libraries)</li>
+  <li>
           <a href="https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/11.0.0/windows_10_cmake_Release_Graphviz-11.0.0-win64.zip">graphviz-11.0.0 (64-bit) ZIP archive</a> [<a href="https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/11.0.0/windows_10_cmake_Release_Graphviz-11.0.0-win64.zip.sha256">sha256</a>] (contains all tools and libraries)</li>
         
-        <li>
+<li>
           <a href="https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/11.0.0/windows_10_cmake_Release_graphviz-install-11.0.0-win32.exe">graphviz-11.0.0 (32-bit) EXE installer</a> [<a href="https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/11.0.0/windows_10_cmake_Release_graphviz-install-11.0.0-win32.exe.sha256">sha256</a>]</li>
         
         <li>
