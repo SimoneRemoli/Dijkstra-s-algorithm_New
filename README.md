@@ -105,3 +105,12 @@ This is the shortest route.
 <img width="190" alt="Screenshot 2024-06-26 alle 14 00 18" src="https://github.com/SimoneRemoli/Dijkstra-s-algorithm_New/assets/118252611/b3bb08ef-4e89-4205-820d-c7ddcbaf8747">
 <br>
 :hourglass: To reach node 3 starting from node 0 it is clear that you can make a direct "single hop" instead of crossing multiple nodes by lengthening the path. :hourglass:
+
+
+
+
+
+
+https://github.com/user-attachments/assets/35a7c260-3544-4997-bb5d-208dcbc27f25
+
+
